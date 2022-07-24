@@ -1,2 +1,2 @@
-# lista_block_IP
-Repositório destinado ao uso da ferramenta PfBlockerNG - Endereços contidos na lista serão bloqueados.
+# Bloqueio IP
+Repositório destinado a manter uma lista de bloqueios para uso na ferramenta PfBlockerNG.
